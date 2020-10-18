@@ -21,3 +21,9 @@ Another object can play a sound when it receives notification of a bumper impact
 Another object can display a particle effect when it receives notification of a bumper impact. 
 Other features can be added to respond to this event later on without having to modify the existing objects, 
 because they independently choose to receive and act on the notification event.
+
+<a href="https://www.upwork.com/fl/michellearias2" target="_blank">If you want to work with me</a>
+
+Cheers!
+
+Oliver
